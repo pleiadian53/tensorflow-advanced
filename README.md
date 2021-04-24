@@ -1,8 +1,18 @@
 DeepLearning.AI: Tensorflow Advanced Techniques
 ===============================================
 
-This module organizes the source code from the Tensorflow: Advanced Techinques Specialization from DeepLearning.AI. 
+This module builds upon the source code from the Tensorflow: Advanced Techinques Specialization from DeepLearning.AI in the following four categories:
 
-This module also aims to expand upon the specialization with related new applications based on existing implementations. 
+- Custom Models, Layers, and Loss Functions
+
+- Custom and Distributed Training 
+
+- Advanced Computer Vision  
+
+- Generative Deep Learning
+
+
+
+
 
  
